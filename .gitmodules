@@ -1,0 +1,3 @@
+[submodule "Xorricane"]
+	path = Xorricane
+	url = https://github.com/j-danner/Xorricane.git
