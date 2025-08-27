@@ -1,7 +1,9 @@
 ## Conflict-Driven SAT Solving Using _XOR-OR-AND Normal Forms_
 
-This repository contains the source code for conflict-driven XNF SAT solver `Xorricane` as well as the benchmark suites used in our paper
-  *J. Danner, M. Kreuzer, *_Conflict-Driven SAT Solving Using XOR-OR-AND Normal Forms_*, submitted, 2025.*
+This repository contains the source code for conflict-driven XNF SAT solver `Xorricane` as well as the benchmark suites used in our paper  
+  *J.Danner, *_SAT Solving Using XOR-OR-AND Normal Forms and Cryptographic Fault Attacks_*, Universität Passau, 2025.*
+
+---
 
 ##### Xorricane
 
